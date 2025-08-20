@@ -329,4 +329,4 @@ services:
 
 **Desarrollado por**: Equipo de Arquitecturas 2025  
 **Versión**: 1.0.0  
-**Última actualización**: Diciembre 2025
+**Última actualización**:  2025
